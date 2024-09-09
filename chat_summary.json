@@ -8,6 +8,12 @@
         "div_id": ""
     },
     {
+        "role": "user",
+        "content": "add a button that says hello world ",
+        "timestamp": "09092024125850",
+        "message_id": "guest09092024125847"
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'm working on adding a button that says \"Hello World.\"",
         "timestamp": "09092024125746",
