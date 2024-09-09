@@ -8,10 +8,10 @@
         "div_id": ""
     },
     {
-        "role": "user",
-        "content": "add a button that says hello world ",
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like this 'Hello World' button to be placed in the app?\", \"option1\": \"Top of the screen\", \"option2\": \"Bottom of the screen\"}, {\"question 2\": \"What specific action do you want the button to trigger when it's clicked?\", \"option1\": \"Display a message\", \"option2\": \"Navigate to another page\"}], \"input_token_count\": 320, \"output_token_count\": 90, \"time_taken\": \"0:00:01.157177\"}",
         "message_id": "guest09092024125847",
-        "timestamp": "09092024125850",
+        "timestamp": "09092024125907",
         "component_file_name": "simple_cta_component_1725886557",
         "div_id": "",
         "div_action": ""
@@ -22,6 +22,15 @@
         "message_id": "guest09092024125847",
         "timestamp": "09092024125851",
         "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button that says hello world ",
+        "message_id": "guest09092024125847",
+        "timestamp": "09092024125850",
+        "component_file_name": "simple_cta_component_1725886557",
         "div_id": "",
         "div_action": ""
     },
