@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"add a button that says 'Hello World'\", \"checked\": true}, {\"feature\": \"create a notification pop-up when 'Hello World' button is clicked\", \"checked\": false}, {\"feature\": \"add a customizable theme option for the button\", \"checked\": false}, {\"feature\": \"include animation effects when the button is pressed\", \"checked\": false}, {\"feature\": \"implement a tooltip explaining the button's function\", \"checked\": false}], \"input_token_count\": 274, \"output_token_count\": 106, \"time_taken\": \"0:00:01.341000\"}",
+        "message_id": "guest09092024125847",
+        "timestamp": "09092024125915",
+        "component_file_name": "simple_cta_component_1725886557",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like this 'Hello World' button to be placed in the app?\", \"option1\": \"Top of the screen\", \"option2\": \"Bottom of the screen\"}, {\"question 2\": \"What specific action do you want the button to trigger when it's clicked?\", \"option1\": \"Display a message\", \"option2\": \"Navigate to another page\"}], \"input_token_count\": 320, \"output_token_count\": 90, \"time_taken\": \"0:00:01.157177\"}",
         "message_id": "guest09092024125847",
